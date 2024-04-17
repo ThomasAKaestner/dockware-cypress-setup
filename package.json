@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  },
+  "dependencies": {
+    "@shopware-ag/e2e-testsuite-platform": "^8.0.0"
+  }
+}
