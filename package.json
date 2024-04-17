@@ -4,5 +4,9 @@
   },
   "dependencies": {
     "@shopware-ag/e2e-testsuite-platform": "^8.0.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
   }
 }
