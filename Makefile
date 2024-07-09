@@ -3,6 +3,9 @@ APP_CONTAINER_NAME = "shopware"
 ssh: ## Connect with app container
 	@docker exec -it $(APP_CONTAINER_NAME) bash
 
+start:
+	docker-compose up -d
+
 composer-install: ## composer install
 	@docker exec -it $(APP_CONTAINER_NAME) composer install
 

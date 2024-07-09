@@ -14,4 +14,8 @@ Writing cypress test with Dockware and Github Actions is a great way to automate
 - [Cypress](https://www.cypress.io/)
 - [shopware-ag/e2e-testsuite-platform](https://www.npmjs.com/package/@shopware-ag/e2e-testsuite-platform)
 
+### Default login Daten
+user: admin
+password: shopware
+
 
